@@ -1,6 +1,4 @@
-![](https://github.com/BSMP-Coders/BSMP-Coders.github.io/raw/master/_media/logos/bsmp_coders_banner.svg)
-
-# BSPM Coders Classroom 📖📚🎓
+# BSMP Coders Classroom 📖📚🎓
 
 [BSMP Coders Web page](https://bsmp-coders.github.io/)
 
